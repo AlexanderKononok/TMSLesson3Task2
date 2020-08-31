@@ -21,18 +21,6 @@ class ViewController: UIViewController {
     }
     
     func printTheSumOf4SignNum(_ num: Int) {
-        /*
-        if num > 0 {
-            var x = num % 10
-            result += x
-            print("x = \(x)")
-            var newNum = num / 10
-            print("newNum = \(newNum)")
-            printTheSumOf4SignNum(newNum)
-        } else {
-            return
-        }
-        */
         
         if num > 0 {
             //print(num)
